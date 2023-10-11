@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3D56B2"
+    tools:context=".user">
+
+    <RelativeLayout
+        android:layout_width="378dp"
+        android:layout_height="712dp"
+        android:layout_margin="15dp"
+        android:background="@drawable/border"
+        android:backgroundTint="#CDDEFF"
+        android:padding="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tv_reg_head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/please_register_your_detail_for_register_as_sitilink_user"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textColorHighlight="#14279B"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/reg_uid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_reg_head"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/userid"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_uid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_uid"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/enter_user_id"
+            android:inputType="text"
+            android:padding="6dp"
+            android:textColorHint="#757575"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck,TextContrastCheck,TextContrastCheck" />
+
+
+        <TextView
+            android:id="@+id/reg_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_uid"
+            android:layout_marginTop="1dp"
+            android:text="@string/full_name"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_name"
+            android:layout_marginTop="4dp"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/enter_your_full_name_as_per_gov_id"
+            android:inputType="textPersonName"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/reg_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_name"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/email_user"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_email"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/enter_your_email_xyz_gmail_user"
+            android:inputType="textEmailAddress"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/reg_dob"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_email"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/date_of_birth"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_dob"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_dob"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/enter_your_birthdate_dd_mm_yyyy"
+            android:inputType="date"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/reg_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_dob"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/gender"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <RadioGroup
+            android:id="@+id/radiogroup_gender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reg_gender"
+            android:background="@drawable/border"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/female"
+                android:textColor="#555555"
+                android:textSize="16sp"
+                tools:ignore="TouchTargetSizeCheck,TextContrastCheck,TextContrastCheck" />
+
+            <RadioButton
+                android:id="@+id/radio_male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:text="@string/male"
+                android:textColor="#555555"
+                android:textSize="16sp"
+                tools:ignore="TouchTargetSizeCheck,TextContrastCheck,TextContrastCheck" />
+
+            <RadioButton
+                android:id="@+id/radio_other"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:text="@string/other"
+                android:textColor="#555555"
+                android:textSize="16sp"
+                tools:ignore="TouchTargetSizeCheck,TextContrastCheck,TextContrastCheck,TextContrastCheck" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/reg_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/radiogroup_gender"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/adhar_card"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_id"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/xxxx_xxxx_xxxx"
+            android:inputType="number"
+            android:maxLength="12"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/reg_id2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_id"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/government_id"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_id2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_id2"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/voterid_pan_card_job_card_driving_license"
+            android:inputType="text"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TextContrastCheck,TouchTargetSizeCheck,TouchTargetSizeCheck" />
+
+        <TextView
+            android:id="@+id/reg_occ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_id2"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/your_occupation"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <Spinner
+            android:id="@+id/et_reg_occ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_occ"
+            android:background="@drawable/border"
+            android:entries="@array/occ"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <TextView
+            android:id="@+id/reg_psw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_occ"
+            android:layout_marginTop="0dp"
+            android:padding="6dp"
+            android:text="@string/password_user"
+            android:textColor="#555555"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/et_reg_psw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_psw"
+            android:autofillHints=""
+            android:background="@drawable/border"
+            android:hint="@string/enter_your_password_user"
+            android:inputType="textPassword"
+            android:padding="6dp"
+            android:textSize="16sp"
+            tools:ignore="TextContrastCheck,TouchTargetSizeCheck" />
+
+        <CheckBox
+            android:id="@+id/reg_terms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_reg_psw"
+            android:text="@string/i_agree_to_terms_and_conditions_user"
+            tools:ignore="TouchTargetSizeCheck" />
+
+
+        <Button
+            android:id="@+id/reg_submit"
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/reg_terms"
+            android:layout_marginStart="110dp"
+            android:layout_marginLeft="11dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="110dp"
+            android:layout_marginRight="11dp"
+            android:layout_marginBottom="11dp"
+            android:backgroundTint="#000957"
+            android:background="@drawable/border"
+            android:textColor="#FFFFFF"
+            android:text="@string/register_user" />
+
+    </RelativeLayout>
+
+</ScrollView>

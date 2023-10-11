@@ -1,0 +1,2029 @@
+<resources>
+    <string name="app_name">group4</string>
+
+    <string-array name="occ">
+        <item>Select your Occupation</item>
+        <item>Student</item>
+        <item>Employee</item>
+        <item>Woman</item>
+        <item>Physically handicapped</item>
+        <item>Government Servant</item>
+        <item>Senior Citizen</item>
+    </string-array>
+
+    <string-array name="govids">
+        <item>Select Your Government ID</item>
+        <item>Voter ID</item>
+        <item>PAN Card</item>
+        <item>Job Card</item>
+        <item>Driving License</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="signup">SIGNUP</string>
+    <string name="emailsign">Email*</string>
+    <string name="enter_your_email_xyz_gmail_sign">Enter your email(xyz@gmail)</string>
+    <string name="mobile">Mobile*</string>
+    <string name="_91_enter_your_mobile_number">+91 (Enter your Mobile Number)</string>
+    <string name="password_sign">Password*</string>
+    <string name="enter_your_password_lohin">Enter your Password</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="signupbtn">Signup</string>
+    <string name="i_agree_to_terms_and_conditions">I agree to terms and conditions *</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email*</string>
+    <string name="enter_your_email_xyz_gmail">Enter your email(xyz@gmail)</string>
+    <string name="password">Password*</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="forget_password">FORGET PASSWORD?</string>
+    <string name="loginbtn">Login</string>
+    <string name="don_t_have_an_account_signup">DON\'T HAVE AN ACCOUNT? SIGNUP</string>
+    <string name="please_register_your_detail_for_register_as_sitilink_user">Please Register Your Detail for Register as Sitilink User</string>
+    <string name="full_name">Full Name*</string>
+    <string name="enter_your_full_name_as_per_gov_id">Enter your full name(As per gov. id)</string>
+    <string name="email_user">Email*</string>
+    <string name="enter_your_email_xyz_gmail_user">Enter your email(xyz@gmail)</string>
+    <string name="date_of_birth">Date of Birth*</string>
+    <string name="enter_your_birthdate_dd_mm_yyyy">Enter your Birthdate(dd/mm/yyyy)</string>
+    <string name="gender">Gender*</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="adhar_card">Adhar Card*</string>
+    <string name="xxxx_xxxx_xxxx">XXXX XXXX XXXX</string>
+    <string name="government_id">Government ID* [eg.VoterID(NHIxxxxxxx)]</string>
+    <string name="voterid_pan_card_job_card_driving_license">VoterID/PAN card/Job Card/Driving License</string>
+    <string name="your_occupation">Your Occupation*</string>
+    <string name="password_user">Password*</string>
+    <string name="enter_your_password_user">Enter your Password</string>
+    <string name="i_agree_to_terms_and_conditions_user">I agree to terms and conditions *</string>
+    <string name="register_user">Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_reset">Email*</string>
+    <string name="reset_btn">RESET</string>
+    <string name="enter_your_email_xyz_gmail_reset">Enter your email(xyz@gmail)</string>
+    <string name="todo">TODO</string>
+    <string name="todo_1">TODO</string>
+    <string name="todo_2">TODO</string>
+    <string name="bus_route_map">Bus route Map</string>
+    <string name="feedback">Feedback</string>
+    <string name="location">Location</string>
+    <string name="route">Route</string>
+    <string name="ticket">Ticket</string>
+    <string name="todo_3">TODO</string>
+    <string name="user_home">User</string>
+    <string name="todo_4">TODO</string>
+    <string name="todo_5">TODO</string>
+    <string name="todo_6">TODO</string>
+    <string name="todo_7">TODO</string>
+    <string name="search_route">SEARCH ROUTE</string>
+    <string name="generate">Generate</string>
+    <string name="pay_for_ticket">PAY FOR TICKET</string>
+    <string name="your_name">Your Name</string>
+    <string name="upiid">upiID</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="todo_8">TODO</string>
+    <string name="name_header">Name</string>
+    <string name="email_header">Email</string>
+    <string name="profile_drawer">Profile</string>
+    <string name="logout_drawer">Logout</string>
+    <string name="favourite_trips_drawer">Favourite trips</string>
+    <string name="share_this_app">Share this App</string>
+    <string name="send_email_drawer">Send Email</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="change_profile">Show Profile</string>
+    <string name="communicate">Communicate</string>
+    <string name="search_list">Search</string>
+    <string name="string_search_list" />
+    <string name="feedback_st">FEEDBACK</string>
+    <string name="submit_feedback">SUBMIT FEEDBACK</string>
+    <string name="userid">User id*</string>
+    <string name="enter_user_id">Enter UserID</string>
+    <string name="changeprof">YOUR PROFILE</string>
+    <string name="useridprof">Your userID</string>
+    <string name="emaiprof">Your Email</string>
+    <string name="mobileprof">Your Mobile No.</string>
+    <string name="passwordprof">Your Password</string>
+    <string name="enter_source_location">Enter Source Location</string>
+    <string name="enter_destination_location">Enter Destination Location</string>
+    <string name="display_track">display track</string>
+    <string name="search_route_act">SEARCH ROUTE</string>
+    <string name="busnumber">busnumber</string>
+    <string name="buspath">buspath</string>
+    <string name="your_review">Your Review</string>
+
+    <string name="zeroone">\n
+        -Chandra Shekhar Azad Bridge Approach Katargam\n
+        -Katargam Darvaja BRT \n
+        -Gotalawadi  \n
+        -Kabir Mandir Rampura \n
+        -Railway Station Terminal \n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darvaja \n
+        -Texttile Market\n
+        -Kamela Darvaja\n
+        -Kinnary Cinema\n
+        -Maan Darvaja \n
+        -Udhana Darvaja BRTS\n
+        -Kharvarnagar BRTS \n
+        -Sub Jail\n
+        -New Civil Hospital\n
+        -Majura Gate \n
+        -Gandhi Collage\n
+        -Vanita Vishram Ground\n
+        -Atwagate\n
+        -Swaminarayan chowk BRTS\n
+        -Adajan Patiya BRTS\n
+    </string>
+
+    <string name="zerotwo">\n
+        - Adajab Patiya Brts\n
+        - Swaminarayan Chowk Brts\n
+        - Athwagate\n
+        - Vanita Vishram Ground\n
+        - Gandhi College\n
+        - Majura Gate\n
+        - New Civil Hospital\n
+        - Sub Jail\n
+        - Udhana Darwaja Brts\n
+        - Khawarnagar Brts\n
+        - Maan Darawaja\n
+        - Kinnary Cinema\n
+        - Textile Market\n
+        - Sahara Darwaja\n
+        - Golden Point\n
+        - Linear Bus Stop\n
+        - Railway Station Terminal\n
+        - Lal Daewaja\n
+        - Kabir Mandir Rampura\n
+        - Gotalawadi\n
+        - Katargam Darwaja BRT\n
+        - Chandra Shekhar Azad Bridge Approach Katargam\n
+    </string>
+
+    <string name="fivezerofour">\n
+        -Puna Canal BRTS \n
+        -Magob Gam BRTS \n
+        -Parvat Patiya Junction BRTS \n
+        -Model Town Dumbhal \n
+        -Dumbhal Fire Station \n
+        -Narayan Industries Limbayat \n
+        -Nageshwar Temple \n
+        -Sanjay Nagar Limbayat \n
+        -Sahajanand Society Limbayat \n
+        -Godadra Canal Junction \n
+        -Jai Jogani Mata Chowk BRTS \n
+        -Aaspas Dada Temple BRTS \n
+        -Mangal Pandey Hall BRTS \n
+        -Maharana Pratap Bridge  Sai Baba Temple, Dindoli BRTS \n
+        -Dindoli Gam \n
+        -Mark Point Dindoli \n
+        -Shreenath Residency \n
+        -Karadva Gam \n
+        -Bhestan Ews Housing \n
+        -Unn \n
+        -Unn Naka BRTS \n
+        -Maulana Azad English School \n
+        -Unn Gam \n
+        -Reshma Nagar \n
+        -Swapna Srusti Residency \n
+    </string>
+
+    <string name="fivezerosix">\n
+        -SDJain School Vesu \n
+        -Suraj Mandal Jain Temple \n
+        -Vatsalya Bungalows \n
+        -Someshwar Junction BRTS \n
+        -VNSG University \n
+        -V.N.S.G.U. Convention Hall BRTS \n
+        -Centre for Social Studies BRTS \n
+        -Anuvrat Dwar Junction (West) BRTS \n
+        -Chandramani Society Udhana Magdalla Road \n
+        -Brieadliner Circle Udhana Magdalla Road \n
+        -Vishal Society Udhana Magdalla Road \n
+        -Bhatar Flyover Udhana Magdalla Road \n
+        -Ishwar Nagar Udhana Magdalla Road \n
+        -Gandhikutir Junction Udhana Magdalla Road \n
+        -Navjivan Circle Udhana Magdalla Road \n
+        -Somnath Society Udhana Magdalla Road \n
+        -Sosyo Circle Udhana Magdalla Road \n
+        -Khatodara Water Works \n
+        -Khatodara Police Station \n
+        -Kharwarnagar BRTS \n
+        -Satyanagar BRTS \n
+        -Udhana Teen Rasta BRTS \n
+        -Mastannagar \n
+        -Laxminagar \n
+        -Udhana Udhyog Nagar \n
+        -S.M.C. Sankul \n
+        -Umiya Nagar \n
+        -Laxminagar Society \n
+        -Dindoli Gam \n
+        -Ghardi Mata Mandir \n
+        -Shivalik Square \n
+    </string>
+
+    <string name="fouronezero">\n
+        - DGVCL Mota Varachha\n
+        - Santosa Heights\n
+        - Oprea City\n
+        - Slok Residency\n
+        - Maharaja Krushnakumar School\n
+        - Royal Square\n
+        - Utran Power House\n
+        - Samta Nagar\n
+        - Mota Varachha Pumping Station\n
+        - Apple Heights \n
+        - Sudama Chowk\n
+        - Mota Varachha Fire Station\n
+        - Mota Varachha Ward Office\n
+        - Mota Varachha Prathmik School\n
+        - Sewage Pumping Mota Varachha\n
+        - Rajhans Tower\n
+        - Lajamani Chowk\n
+        - Savjikorat Bridge\n
+        - Natvar Nagar\n
+        - Sarthana Nature Park BRTS\n
+        - Sarthana Naka\n
+        - Simada Varigruh\n
+        - Vraj Chowk\n
+        - Vrajvilla Society Shayamnagar\n
+        - Simada Gam \n
+        - Patel Park\n
+        - Yogi Nagar\n
+        - Raghukul Residency\n
+        - Radhe Residency\n
+        - Savaliya Circle\n
+        - Vrundavan Society Puna\n
+        - Pramukhchhaya\n
+        - Balaji Residency\n
+        - Bhagwati Society\n
+        - Laxminagar Chowk\n
+        - BSNL Office Mamta Park\n
+        - Sagar Society\n
+        - Gopal Chowk\n
+        - Rachana Society\n
+        - Rachna Circle\n
+        - Shree Swami Dayanand Sarswati Bridge\n
+        - Silver Palace  \n
+        - Community Hall Utran\n
+        - Omkar Row House\n
+    </string>
+
+    <string name="fourzerothree">\n
+        -Sanjay Nagar Circle \n
+        -Sanjay Nagar Limbayat \n
+        -Sahajanand Society Limbayat \n
+        -Silicon Flats Parvat \n
+        -Parvat Gam \n
+        -Vidhata Township Parvat \n
+        -Neminath Nagar Dumbhal \n
+        -Model Town Dumbhal \n
+        -Parvat Patiya Junction BRTS \n
+        -Amazia Amusement Park BRTS \n
+        -Sitanagar BRTS \n
+        -Sita Nagar \n
+        -Punagam Sarkari Mandli \n
+        -Puna Talav \n
+        -Shaarda Vidhya Mandir \n
+        -Kargil Chowk Puna \n
+        -Thakordwar Society \n
+        -Bhagwati Society \n
+        -Anupam Business Hub \n
+        -Yogi Chowk \n
+        -City Civic Centre Yogi \n
+        -Mahavir Chowk \n
+        -Varacha Chowpati F.O.B \n
+        -Tapovan Circle \n
+        -Nana Varachha Vari Gruh BRTS \n
+        -Maharana Pratap Garden (Chowpati) BRTS \n
+        -Nana Varachha Police Station BRTS \n
+        -Sarthana Nature Park BRTS \n
+        -Anmol Park Society \n
+    </string>
+
+    <string name="fourzerotwo">\n
+        -Amazia Amusement Park BRTS \n
+        -Shree Sant Kheteshwar Circle  Parvat Patiya BRTS \n
+        -AAI Mata Road \n
+        -Raghuvir Business Hub \n
+        -J.T. Nagar \n
+        -Archana Char Rasta \n
+        -Renuka Bhavan \n
+        -Nandaalay Haveli \n
+        -Bombay Market \n
+        -Khaadi Mohalla Shaala \n
+        -Bhagat Singh Garden \n
+        -Vasant Bikha Ni Wadi \n
+        -J.B. Diamond \n
+        -Lambe Hanuman Temple \n
+        -Railway Station Terminal \n
+        -Railway Parcel Office \n
+        -I.C. Gandhi School \n
+        -Sumul Dairy \n
+        -Alkapuri Circle \n
+        -Kiran Hospital \n
+        -Katargam BRT \n
+        -Dr. Shyamaprasad Mukharji Lake Garden BRTS \n
+        -Gajera Circle BRTS \n
+        -Pandit Shyamji Krishna Verma Bridge BRTS \n
+    </string>
+
+    <string name="ninezerothree">\n
+        -Pasodara Gaam \n
+        -Chehar Mata Temple \n
+        -Shakun Valley Residency \n
+        -Kathodara Gaam \n
+        -SK Park Society Kathodara \n
+        -Khadsad Gaam \n
+        -Godhpur Township \n
+        -NC Thakkar School \n
+        -Diva Farm \n
+        -VT Nagar Road \n
+        -Purushottam Nagar BRTS \n
+        -Sarthana Nature Park BRTS \n
+        -SMVS Swaminarayan Temple BRTS \n
+        -Swagat Society BRTS \n
+        -Siddharth Nagar Society \n
+        -Yogi Nagar Society \n
+        -Yodi Darshan Society \n
+        -City Centre Puna Gaam \n
+        -Shiv Dhara Heights \n
+    </string>
+
+    <string name="oneeight">\n
+        -S.M.C Varachha Health Center BRTS\n
+        -Central Ware House BRTS\n
+        -Maangadh Chowk BRTS\n
+        -Baroda Pristage BRTS\n
+        -Shrimad Vallbhacharya Chowk BRTS\n
+        -D.G.V.C.L. Urja Sadan BRTS\n
+        -Shree Swami Dayanand Saraswati Bridge\n
+    </string>
+
+    <string name="onefive">\n
+        - V.N.S.G University Brts\n
+        - V.N.S.G Convention Hall Brts\n
+        - Center For Social Studies Brts\n
+        - Anuvrat Dwar Junction Brts\n
+        - Chinagate Brts\n
+        - Bharthana Brts\n
+        - Althan Bharthana Brts\n
+        - Shyam Mandir Brts\n
+        - Althan Canal Brts\n
+        - Althan Khadi Brts\n
+        - Panchmukhi Hanuman Mandir Brts\n
+        - Kailash Nagare\n
+        - Patrakar Colony Brts\n
+        - Chikuwadi Brts\n
+        - Tulsidham Brts\n
+        - Pandesara GIDC Brts\n
+        - Dindoli Vatrigruh Brts\n
+        - Dindoli Kharwasa Road Brts\n
+        - Maharana pratap Bridge Brts\n
+        - Samrat Vidhyalaya Brts\n
+        - Kharwarnagar Brts\n
+        - Khatodara GIDC Brts\n
+        - Unique Hospital Junction Brts\n
+        - Prajapita Brahmkumari Marg Brts\n
+        - Rupali Juction Brts\n
+        - Jamana Nagar Juction Brts\n
+        - Ishwar Farm Junction Brts\n
+        - Panas gam Junction\n
+        - Anuvrat Dwar Junction Brts\n
+        - Mangal Pandey Hall Brts\n
+        - Aaspas Dada Temple Brts\n
+        - Jai Jogani Mata chowk Brts\n
+        - Devadh Gam Road Brts\n
+        - Parvat Gam Brts\n
+        - Magob Pravat Gam Brts\n
+        - Puna Canal Brts\n
+        - Amazia Amusement Park Brts\n
+        - Parvat Patiya Junction Brts\n
+        - Model Town Junction Brts\n
+    </string>
+
+    <string name="onefivethree">\n
+        - Umra Gaam BRTS \n
+        - Umra Food Park  \n
+        - Icchanath Mahadev Temle \n
+        - Sushrut Hospital \n
+        - Sargam Shopping Center \n
+        - Janni Farsaan  \n
+        - Parle Point  \n
+        - V.T Choksi Collage  \n
+        - Surat District Court  \n
+        - City Civic Centre  \n
+        - Police Commissioner Office \n
+        - Jawarharlal Nehru Garden \n
+        - Vanita Vishram \n
+        - Atwagate  \n
+        - Vanita Vishram Ground \n
+        - Gandhi Collage  \n
+        - Majura Gate \n
+        - New Civil Hospital \n
+        - Sub Jail  \n
+        - Maan Darvaja \n
+        - Kinnary Cinema  \n
+        - Kamela Darvaja  \n
+        - Texttile Market  \n
+        - Sahara Darvaja \n
+        - Golden Point \n
+        - Linear Bus Stop \n
+        - Railway Station Terminal \n
+        - Lambe Hanuman Temple \n
+        - J.B.Diamonad  \n
+        - Vasant Bhika Ni Wadi \n
+        - MataWadi Chowk  \n
+        - Laabheshwar Chowk \n
+        - Ghanshyam Nagar \n
+        - Santosh Nagar \n
+        - Rachana Circle \n
+        - Gopal Chowk \n
+        - Sagar Society \n
+        - BSNL Office Mamta Park \n
+    </string>
+
+    <string name="onefour">\n
+        -Pal R.T.O. BRTS\n
+        -Sanjeev Kumar Auditorium BRTS\n
+        -Adajan Gam BRTS\n
+        -Anand Mahal Road BRTS\n
+        -Swaminarayan Chowk BRTS\n
+        -Adajan Patiya BRTS\n
+        -Shankheshwar Chowk BRTS\n
+        -Navyug College BRTS\n
+        -S.M.C. West Zone Office BRTS\n
+        -Tadwadi BRTS\n
+        -Palanpur Patiya BRTS\n
+        -Ramnagar BRTS\n
+        -Morabhagal BRTS\n
+        -Jahangirpura Community Hall BRTS\n
+        -Dr. Shyamaprasad Mukharji Bridge BRTS\n
+        -Dabholi Gam BRTS\n
+        -S.M.V.S. Swaminarayan Temple (Dabholi) BRTS\n
+        -Shree Sahjanand Chowk BRTS\n
+        -Bapa Sitaram Chowk BRTS\n
+        -Hare Krishna Circle\n
+        -S.M.C. North Zone (Katargam) Office BRTS\n
+        -Gajera Circle BRTS\n
+        -Pandit Shyamji Krishna Verma Bridge BRTS\n
+        -Kosad Fire Station BRTS\n
+        -Kosad Housing Board BRTS\n
+        -Kosad Depot BRTS\n
+        -Kosad Ews H1 BRTS\n
+        -Kosad Ews H2 BRTS\n
+    </string>
+
+    <string name="onefourseven">\n
+        - Kabir Mandir Rampura \n
+        - Gotalawadi \n
+        - Katargam Darvaja BRT \n
+        - Chandra Shekhar Azad Bridge Approach Katargam \n
+        - Adajan GSTRC \n
+        - Corporation School \n
+        - Param Row House \n
+        - BAPS Swaminarayan Sanstha \n
+        - Bhagvan Park \n
+        - Badrinath Mandir \n
+        - BAPS Hospital Adajan  \n
+        - Adajan Gam BRTS  \n
+        - Star Bazaar \n
+        - Adajan Gam  \n
+        - Trinity Business Park  \n
+        - Saurabh Society  \n
+        - SMC Party Plot Pal  \n
+        - Stuti Residancy \n
+        - Pal Gaam  \n
+        - Galaxy Circle \n
+        - Galaxy Enclave  \n
+    </string>
+
+    <string name="onenine">\n
+        - Railway Station Terminal \n
+        - Linear Bus Stop \n
+        - Golden Point \n
+        - Sahara Darvaja \n
+        - Smimer Hospital BRT \n
+        - APMC Sardar Market BRTS \n
+        - Aai Mata Chowk BRTS \n
+        - Shree Sant Kheteswar Circle \n
+        - Amazia Amusement Park BRTS \n
+        - Puna Canal BRT  \n
+        - Bhakti Dham BRTS \n
+        - Vishwakarma Mandir BRTS  \n
+        - Canser Hospital BRTS \n
+        - Saroli BRTS \n
+        - Antroli  \n
+        - Vareli Gaam \n
+        - Kadodra  \n
+    </string>
+
+    <string name="oneone">\n
+        - Udhana Darvaja BRTS \n
+        - Kharwarnagar BRTS \n
+        - Satynagar BRTS \n
+        - Udhana Teen Rasta BRTS \n
+        - Udhana GSTRC BRTS \n
+        - Udhana Academy Collage BRTS \n
+        - Laxmi Narayan Temple BRTS \n
+        - Daksheshwar Mahadev BRTS \n
+        - Pandesara GIDC BRTS\n
+        - Kamnath Mahadev BRTS \n
+        - Navin Fluorine BRTS \n
+        - Bhestan Naher BRTS \n
+        - Bhagavatinagar Industrial \n
+        - Bhestan \n
+        - Unn Naka BRTS \n
+        - Unn Industrial Estate BRTS\n
+        - Unn Char Rasta BRTS \n
+        - Green Park BRTS \n
+        - Sachin GIDC Junction BRTS\n
+    </string>
+
+    <string name="oneoneeight">\n
+        -Ashwanikumar Road \n
+        -Vidhi Bhavan \n
+        -Umiya Chowk \n
+        -Leprosy Hospital \n
+        -Patel Nagar \n
+        -Gaushala Fulpada \n
+        -Ashwanikumar Smashan Gruh \n
+        -Katar Gam GIDC \n
+        -Fulpada Road BRTS \n
+        -Gajera Circle BRTS \n
+        -Pandit Shyamji Krishna Verma Bridge BRTS \n
+        -Amroli Char Rasta \n
+        -Amroli Cross Road \n
+        -Kosad Fire Station BRTS \n
+        -Kosad Housing Board BRTS \n
+        -Kosad Depot BRTS \n
+        -Global Residency \n
+        -Vasvari Lake \n
+        -Vasvari Gaam \n
+        -Gothan Vasvaari Faata \n
+        -Sanskar Industrial Estate \n
+        -Delaad Talaav \n
+        -Delaad Industrial Estate \n
+        -Delaad Patiya \n
+        -Mahavir Complex Delaad Patiya \n
+        -Sahyog Society Sayan \n
+        -D.R.G.D High School Sayan \n
+    </string>
+
+    <string name="oneoneseven">\n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darwaja \n
+        -Textile Market \n
+        -Kamela Darwaja \n
+        -Kinnary Cinema \n
+        -Maan Darwaja \n
+        -Sub Jail \n
+        -New Civil Hospital \n
+        -Majura Gate \n
+        -Gandhi College \n
+        -Vanita Vishram Ground \n
+        -Athwagate \n
+        -Anand Mahal Road BRTS \n
+        -Kavi Kalapi Garden \n
+        -Shahi Masjid Adajan Gam \n
+        -Spipa (Surat) \n
+        -Gangeshwar Mandir \n
+        -Green Residency \n
+        -Patel Pragati Mandal \n
+        -Ayodhya Nagari Society \n
+        -BSNL Office \n
+        -Bhagyodaya Society \n
+        -Dindayal Society \n
+        -Palanpur Jakatnaka \n
+        -Sandya Vadan Society \n
+        -Mini Virpur \n
+        -Saitirth \n
+        -Palanpur Shala \n
+        -Palanpur Gam \n
+    </string>
+
+    <string name="oneonesix">\n
+        -Delhi Gate \n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Bhagal Char Rasta \n
+        -Kot Safil Road \n
+        -Wadi Faliya \n
+        -Gopi Talav Market \n
+        -Talawdi Sagrampura \n
+        -Kshetrapal Mandir \n
+        -Vijay Vallabh Chowk \n
+        -Sharda Vidhya Mandir \n
+        -Sanskar Bhavan \n
+        -Majuragate Civil Hospital \n
+        -Income Tax \n
+        -Kapadia Health Club \n
+        -Rupali Junction BRTS \n
+        -Rupali Canal Junction Bhatar Road \n
+        -Uma Bhavan Bhatar Road \n
+        -Atop Nagar Bhatar Road \n
+        -I.G Desai School Althan Road \n
+        -Althan Tenament \n
+        -Kapadia Wadi Althan Road \n
+        -Shayona Park Althan Road \n
+        -Soham Circle \n
+        -Althan Water Works Junction \n
+        -Megnus Alpine Althan Canal Road \n
+        -Ashirwad Enclave Althan Canal Road \n
+        -Bhagwan Mahavir College \n
+        -Mahila I.T.I \n
+        -Sarsana Gam \n
+    </string>
+
+    <string name="oneonetwo">\n
+        -Patelwadi \n
+        -Gotalawadi \n
+        -Katargam Darwaja BRTS \n
+        -Katargam Police Station \n
+        -Bal Ashram \n
+        -V.N Godhani School \n
+        -Dr. Shyamaprasad Mukharji Lake Garden BRTS \n
+        -Gajera Circle BRTS \n
+        -Pandit Shyamji Krishna Verma Bridge BRTS \n
+        -Amroli Char Rasta \n
+        -Arihant Park \n
+        -Swami Narayan Mandir (BAPS) \n
+        -Ganesh Nagar \n
+        -Chaapra Bhaatha \n
+        -Sita Ram Chowk \n
+        -Vatsalya Villa Variyav \n
+        -SMC Water Works Kosad \n
+        -Kosad Ews H1 BRTS \n
+        -Kosad Ews H2 BRTS \n
+        -Kosad Talaav \n
+    </string>
+
+    <string name="onesevene">\n
+        -Sarthana Nature Park BRTS \n
+        -D.G.V.C.L. Urja Sadan BRTS \n
+        -Shrimad Vallabhacharya Chowk BRTS \n
+        -Baroda Pristage BRTS \n
+        -Maangadh Chowk BRTS \n
+        -Central Ware House BRTS \n
+        -S.M.C. Varachha Health Centre BRTS \n
+        -Railway Station Terminal \n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darwaja \n
+        -Udhana Darwaja \n
+        -Kharwarnagar BRTS \n
+        -Udhana Teen Rasta BRTS \n
+        -Udhana Academy College BRTS \n
+        -Pandesara GIDC BRTS \n
+        -Unn Industrial Estate BRTS \n
+    </string>
+
+    <string name="onesevenae">\n
+        - Shyam Nagar BRTS \n
+        - Pasodara Gam BRTS \n
+        - Diamond Vidya Sankul BRTS \n
+        - Diamond Nagar BRTS \n
+        - DGVCL Laskana BRTS \n
+        - Laskana Gam BRTS \n
+        - Raghuvir Row House BRTS \n
+        - Valak Gam BRTS \n
+        - Sagwadi BRTS \n
+        - Shyamdham Mandir BRTS \n
+        - Sarthana Nature Park BRTS \n
+        - Maharana Pratap Garden BRTS \n
+        - Purushottam Nagar BRTS \n
+        - Nana Varachha Vari Gruh BRTS \n
+        - Kapodara Fire Station BRTS \n
+        - S.M.C. Kapodara Ward Office BRTS \n
+        - D.G.V.C.L. Urja Sadan BRTS \n
+        - Shrimad Vallabhacharya Chowk BRTS \n
+        - Baroda Pristage BRTS \n
+        - Maangadh Chowk BRTS \n
+        - Central Ware House BRTS \n
+        - S.M.C. Varachha Health Centre BRTS \n
+        - Railway Station Terminal \n
+        - Patelwadi \n
+        - Gotalawadi \n
+        - Katargam Darwaja BRTS \n
+        - Jilani Bridge Approach Katargam \n
+        - Adajan Patiya BRTS \n
+        - Swaminarayan Chowk BRTS \n
+        - Anand Mahal Road BRTS \n
+        - Adajan Gam BRTS \n
+        - Sanjeev Kumar Auditorium BRTS \n
+    </string>
+
+    <string name="onesix">\n
+        - Kosad Depot BRTS  \n
+        - Kosad EWS H1 BRTS  \n
+        - Kosad EWS H2 BRTS  \n
+        - Kosad Housing Board BRTS  \n
+        - Kosad Fire Station BRTS \n
+        - Amroli Cross Road  \n
+        - Amroli Char Rasta  \n
+        - Pandit Shyamji Krishana Verma Bridge BRTS \n
+        - Gajera Circle BRTS  \n
+        - Fulpada Road BRTS \n
+        - Shree Swaminarayan Mandir Rustombag BRTS \n
+        - Vallabhacharya Road BRTS  \n
+        - Hirabaug BRTS  \n
+        - D.G.V.C.L.Urja Sadan BRTS \n
+        - Rachana Circle   \n
+        - Lambe Hanuman Road BRTS  \n
+        - Anjani Boot Bhavani Road BRTS \n
+        - Sitanagar BRTS \n
+        - Amazia Amusement Park BRTS  \n
+        - Magob Gam BRTS   \n
+        - Magob Parvat Khadi Bridge BRTS  \n
+        - Parvat Gam BRT  \n
+        - Devadh Gam Road BRTS  \n
+        - Jai Jogani Mata Chowk BRTS \n
+        - Aaspas Dada Temple BRTS \n
+        - Mangal Pandey Hall BRTS \n
+        - Maharana Pratap Bridge BRTS  \n
+        - Dindoli Kharvasa Road BRTS\n
+        - Dindoli Varigruh BRTS\n
+    </string>
+
+    <string name="onethree">\n
+        -  Jahangipura Community Hall BRTS \n
+        -  DR.Shyamprasad Mukharji Bridge BRTS \n
+        -  Dabholi Gam BRTS \n
+        -  S.M.V.S.Swaminarayan Temple (Dabholi)BRTS \n
+        -  Shree Sahjanand Chowk BRTS \n
+        -  Bapa Sitaram Chowk BRTS \n
+        -  Hare Krishna CircleLalita Chokadi BRTS \n
+        -  S.M.C.North Zone (Katargam) Office BRTS\n
+        -  Gajera Circle BRTS  \n
+        -  Fulpada Road BRTS \n
+        -  Shree Swaminarayan Mandir Rustombag BRTS \n
+        -  Vallabhacharya Road BRTS  \n
+        -  Hirabaug BRTS  \n
+        -  D.G.V.C.L.Urja Sadan BRTS \n
+        -  Rachana Circle \n
+        -  Lambe Hanuman Road BRTS  \n
+        -  Anjani Boot Bhavani Road BRTS \n
+        -  Sitanagar BRTS \n
+        -  Amazia Amusement Park BRTS \n
+        -  Magob Gam BRTS \n
+        -  Bhakti Dham BRTS \n
+        -  Vishwakarma Mandir BRTS \n
+        -  Cancer Hospital BRTS \n
+        -  Saroli BRTS  \n
+        -  Kumbhariya Gaam \n
+        -  Sabar Gaam  \n
+        -  Antroli \n
+        -  Vareli Gaam \n
+        -  Kadodra \n
+    </string>
+
+    <string name="onethreeseven">\n
+        -Delhi Gate \n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Limda Chowk \n
+        -Lalgate  Choutapul \n
+        -Bhagatalav \n
+        -Chowk Bazar \n
+        -Nehru Bridge \n
+        -Adajan GSRTC \n
+        -Shankheshwar Chowk BRTS \n
+        -Navyug College BRTS \n
+        -S.M.C. West Zone Office BRTS \n
+        -Tadwadi BRTS \n
+        -Palanpur Patiya BRTS \n
+        -Ramnagar BRTS \n
+        -Morabhagal BRTS \n
+        -Jahangirpura Community Hall BRTS \n
+        -Pisad Pumping Station \n
+        -Iskcon Circle \n
+        -Iscon Mandir \n
+        -KurukshetraRammadhi \n
+        -Asharam Bapu Ashram \n
+        -Variyav Jakatnaka \n
+        -CJ Patel College \n
+        -GWSSB Variav \n
+    </string>
+
+    <string name="onethreesix">\n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darwaja \n
+        -Maan Darwaja \n
+        -Sub Jail \n
+        -New Civil Hospital \n
+        -Majura Gate \n
+        -Gandhi College \n
+        -Vanita Vishram Ground \n
+        -Athwagate \n
+        -Vanita Vishram \n
+        -Jawaharlal Nehru Garden \n
+        -Police Commissioner Office \n
+        -City Civic Centre \n
+        -Surat District Court \n
+        -V.T Choksi College \n
+        -Parle Point \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -Piplod BRTS \n
+        -Lancer’s Army School BRTS \n
+        -Goverdhan Nathji Haveli BRTS \n
+        -Rundhnath Mahadev Mandir BRTS \n
+        -Magdalla ‘T’ Junction BRTS \n
+        -‘Y’ Junction Dumas Road BRTS \n
+        -Magdalla Gam BRTS \n
+        -ONGC Colony BRTS \n
+        -Magdalla Port \n
+        -Gaviyar Vanta \n
+    </string>
+
+    <string name="onetwo">\n
+        - Magdalla Gaam BRTS\n
+        - Y Junction Dumas Road BRTS \n
+        - Y Junction Udhana Magdalla Road BRTS\n
+        - Maharana Pratap Junction BRTS\n
+        - S.D.Jain School BRTS\n
+        - J.H.Ambani School BRTS\n
+        - Someshwar Junction BRTS\n
+        - V.N.S.G.University BRTS\n
+        - V.N.S.G.U. Convention Hall BRTS\n
+        - Center For Social Studies BRTS\n
+        - Anuvrat Dwar Junction(West)BRTS\n
+        - Anuvrat Dwar Junction(East)BRTS\n
+        - Panas Gaam Junction BRTS \n
+        - Ishwar Farm Junction BRTS\n
+        - Jamna Nagar Junction BRTS\n
+        - Rupali Junction BRTS\n
+        - Prajapita Brahmkumari Marg BRTS\n
+        - Unique Hospital Junction BRTS\n
+        - Khatodara GIDC BRTS\n
+        - Kharwarnagar BRTS\n
+        - Samrat Vidhyalaya BRTS \n
+        - Model Town Junction BRTS\n
+        - Parvat Patiya Junction BRTS\n
+        - Amazia Amusement Park BRTS\n
+        - Vishwakarma Junction BRTS\n
+        - Bhaiya Nagar BRTS\n
+        - Punagam Junction BRTS\n
+        - Puna Saroli Junction BRTS\n
+        - Vanmali Junction(WEST)BRTS\n
+        - Vanmali Junction BRTS\n
+        - Simada Naher Junction BRTS\n
+        - Simada Junction BRTS\n
+        - Yogi Nagar BRTS\n
+        - Swagat Society BRTS\n
+        - S.M.V.S.Swaminarayan Temple BRTS\n
+        - Sarthana Nature Park BRTS\n
+    </string>
+
+    <string name="onetwoseven">\n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Limda Chowk \n
+        -Lalgate  Choutapul \n
+        -Bhagatalav \n
+        -Nehru Bridge \n
+        -Adajan GSRTC \n
+        -Shankheshwar Chowk BRTS \n
+        -Ambedkar Trust \n
+        -Amidhara Wadi \n
+        -Ajramar Chowk \n
+        -Sangeet Sarita \n
+        -Nilkamal Society \n
+        -Prime Arcade- Adajan \n
+        -Ganeshkrupa Society \n
+        -New Era School \n
+        -Palanpur Patiya BRTS \n
+        -Pipardiwala School \n
+    </string>
+
+    <string name="onetwosix">\n
+        -Delhi Gate \n
+        -Bhagal \n
+        -Bhagal Char Rasta \n
+        -Kot Safil Road \n
+        -Wadi Faliya \n
+        -Gopi Talav Market \n
+        -Talawdi Sagrampura \n
+        -Kshetrapal Mandir \n
+        -Vijay Vallabh Chowk \n
+        -Sharda Vidhya Mandir \n
+        -Sanskar Bhavan \n
+        -Majuragate Civil Hospital \n
+        -Panjara Pol Ghod DoD Road \n
+        -Karimabad Society Ghod DoD Road \n
+        -St.Xavier’s High School Ghod DoD Road \n
+        -Rangeela Park Ghod DoD Road \n
+        -Tribhuvan Complex Ghod DoD Road \n
+        -Gujarati School Ghod DoD Road \n
+        -Parle Point Ghod DoD Road \n
+        -Shrungar Society City Light Road \n
+        -Science Centre City Light Road \n
+        -Prem Prakruti Chowk City Light Road \n
+        -Siddharth Com. Junction City Light Road \n
+        -Anuvrat Dwar Junction (West) BRTS \n
+        -Centre for Social Studies BRTS \n
+        -V.N.S.G.U. Convention Hall BRTS \n
+    </string>
+
+    <string name="onezeroeight">\n
+        -Delhi Gate \n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Limda Chowk \n
+        -Lalgate  Choutapul \n
+        -Bhagatalav \n
+        -Chowk Bazar \n
+        -Nehru Bridge \n
+        -Adajan GSRTC \n
+        -Shankheshwar Chowk BRTS \n
+        -Navyug College BRTS \n
+        -S.M.C. West Zone Office BRTS \n
+        -Tadwadi BRTS \n
+        -Palanpur Patiya BRTS \n
+        -Ramnagar BRTS \n
+        -Morabhagal BRTS \n
+        -Jahangirpura Community Hall BRTS \n
+        -Pisad Pumping Station \n
+        -Iskcon Circle \n
+        -Nandanvan Row House \n
+        -Patel Nagar Society \n
+        -Saroli Gaam \n
+        -Talad \n
+        -BCA College Masma \n
+        -Masma \n
+        -Ishan Pur \n
+        -Cyanide Chemicals \n
+        -Olpad GIDC \n
+        -Sayan Faata \n
+        -Bilal Masjid Olpad \n
+        -Kasba Mohalla Olpad \n
+        -Olpad Bus Depot \n
+    </string>
+
+    <string name="onezerofive">\n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darwaja \n
+        -Textile Market \n
+        -Kamela Darwaja \n
+        -Kinnary Cinema \n
+        -Maan Darwaja \n
+        -Sub Jail \n
+        -Khatodara Wadi \n
+        -Khatodara GIDC \n
+        -Sosyo Circle \n
+        -Gandhi Kutir \n
+        -Sickon Circle \n
+        -Ashapura Mata Mandir \n
+        -Umabhavan \n
+        -Vishnu Nagar \n
+        -Piyush Complex \n
+        -Patrakar Colony BRTS \n
+        -Pandesara \n
+        -SMC Community Hall Pandesara \n
+        -Bhagirath Apartment \n
+        -KV Hagrenad Road \n
+        -G-Tex Prints \n
+        -Vitrag Chemical \n
+        -Colourtex \n
+        -Alfa Way Bridge Chokdi \n
+        -Pandesara Industries Estate \n
+        -Pandesara GIDC BRTS \n
+        -Tulsidham BRTS \n
+    </string>
+
+    <string name="onezerofour">\n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darwaja \n
+        -Textile Market \n
+        -Kamela Darwaja \n
+        -Halpati Colony \n
+        -Bhathena Canal Junction \n
+        -Siddhi Vinayak Temple \n
+        -Khodiyarnagar \n
+        -L.N. Park Society \n
+        -Udhana GIDC Mahatma Gandhi Road \n
+        -Udhana Railway Station \n
+        -ROAD No. 3 UDHANA UDHYOG \n
+        -NAGAR CHAR RASTA \n
+        -Udhana Road No.6 Junction \n
+        -S.M.C. Sankul \n
+        -Umiya Nagar \n
+        -Laxminagar Society \n
+        -Dindoli Gam \n
+        -Jitesh Park Society \n
+        -Millennium Park \n
+    </string>
+
+    <string name="onezeroseven">\n
+        -Delhi Gate \n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Limda Chowk \n
+        -Lalgate  Choutapul \n
+        -Bhagatalav \n
+        -Chowk Bazar \n
+        -Nehru Bridge \n
+        -Adajan GSRTC \n
+        -Adajan Patiya BRTS \n
+        -Swaminarayan Chowk BRTS \n
+        -Bhulka Bhavan \n
+        -Sri Ram Petrol Pump \n
+        -S.M.C. Sports Complex \n
+        -Mahalaxmi Mandir \n
+        -Van Bhavan \n
+        -Shanti Kunj \n
+        -Green Avenue \n
+        -S.M.C. Performing Art Centre \n
+        -L.P. Savani \n
+        -Ekta Nagar \n
+        -Vidhyakunj \n
+        -Hidayat Nagar Police Station \n
+        -Ambedkar Nagar \n
+        -Vrundavan Flats \n
+        -Ugat S.M.C. Water Treatment Plant \n
+        -S.M.C. Botanical Garden \n
+        -Suman Nursery \n
+        -Mora Bhagal \n
+        -Jahangirpura Community Hall BRTS \n
+        -Pisad Pumping Station \n
+        -Iskcon Circle \n
+        -Nandanvan Row House \n
+        -Patel Nagar Society \n
+    </string>
+
+    <string name="onezerosix">\n
+        -Delhi Gate \n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Limda Chowk \n
+        -Lalgate  Choutapul v
+        -Bhagatalav \n
+        -Chowk Bazar \n
+        -Chowk Terminal \n
+        -Makkai Pool \n
+        -Dutch Garden \n
+        -Nanpura Post Office \n
+        -Bahumali \n
+        -Girls Polytechnic \n
+        -Vanita Vishram \n
+        -K.P Commerce College \n
+        -Seventh Day School \n
+        -Adarsh Society \n
+        -St.Xavier’s High School Ghod DoD Road \n
+        -Rangeela Park Ghod DoD Road \n
+        -Tribhuvan Complex Ghod DoD Road \n
+        -Gujarati School Ghod DoD Road \n
+        -Parle Point Ghod DoD Road \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -Piplod BRTS \n
+        -Bharti Maiya School \n
+        -S.D Planets School \n
+        -S.D. Jain School BRTS \n
+        -SNS Square \n
+        -Jolly Residency \n
+        -Someshwara Enclave Vesu Abhva Road \n
+        -Ratna Jyoti Tower Vesu Abhva Road \n
+        -Agam Shopping Vesu Abhva Road \n
+        -Nalanda School Vesu Abhva Road \n
+    </string>
+
+    <string name="onezerothreek">\n
+        -J.B. Diamond \n
+        -Vasant Bikha Ni Wadi \n
+        -Matawadi Chowk \n
+        -Laabheshwar Chowk \n
+        -Ghanshyam Nagar \n
+        -Santosh Nagar \n
+        -Rachna Circle \n
+        -Rachana Society \n
+        -D.G.V.C.L. Urja Sadan BRTS \n
+        -Shree Swami Dayanand Saraswati Bridge \n
+        -Utran Power House \n
+        -Samata Nagar \n
+        -Mota Varachha Pumping Station \n
+        -Apple Heights \n
+        -Sudama Chowk \n
+        -Mota Varachha Fire Station \n
+        -Mota Varachha Ward Office \n
+        -Mota Varachha Prathmik School \n
+        -Mota Varachha Lake \n
+        -Anand Dhara Society Mota Varachha \n
+        -Kakrapar Canal Road \n
+        -Gothan Bridge \n
+        -Kiran Residency \n
+        -Umra Naka \n
+        -Shiv Park Residency \n
+        -Bapa Sitaram Petrol Pump \n
+        -Saurashtra Green City \n
+        -Madhuvan Public School Approach \n
+        -Avshar Bungalow \n
+        -Pranam Residency \n
+        -Rangoli Chokadi \n
+        -Velanja Gaam \n
+    </string>
+
+    <string name="onezerothrees">\n
+        - Lambe Hanuman Temple \n
+        - J.B.Diamond \n
+        - Vasant Bikha Ni Wadi  \n
+        - Matawadi Chowk n
+        - Laabheshwar Chowk \n
+        - Ghanshyam Nagar \n
+        - Santosh Nagar \n
+        - Rachana Circle \n
+        - Rachana Society \n
+        - D.G.V.C.L Urja Sadan BRTS \n
+        - Shree Swami Dayanand Saraswati Bridge \n
+        - Utran Power House  \n
+        - Samata Nagar \n
+        - Mota Varachha Pumping  Station \n
+        - Apple Heights\n
+        - Sudhama Chowk \n
+        - Mota Varachha Fire Station \n
+        - Mota Varachha Ward Office \n
+        - Mota Varachha Prathmik school \n
+        - Mota Varachha Lake \n
+        - Tapi Arcade \n
+        - Panchtatva \n
+        - Gokuldham \n
+        - Shree karamshiram Bapa Ashram \n
+        - PP Savani Sankul \n
+        - Bharthana Faata  \n
+        - Chamunda Nagar Society \n
+        - Abrama Gaam \n
+        - Velnja  Abrama Road\n
+        - Kakrapar Canal Road Junction \n
+        - Shyam Row House n
+        - Pranam Residancy 1 \n
+        - Rangoli Chokadi \n
+        - Velanja Gaam Panchayat \n
+        - Nandini Residancy\n
+        - RK Farm Shekpur \n
+        - Ananad Vatika \n
+        - Shekpur Gaam \n
+    </string>
+
+    <string name="onezerothreev">\n
+        - Lambe Hanuman Temple \n
+        - J.B.Diamond \n
+        - Vasant Bikha Ni Wadi  \n
+        - Matawadi Chowk \n
+        - Laabheshwar Chowk \n
+        - Ghanshyam Nagar \n
+        - Santosh Nagar \n
+        - Rachana Circle \n
+        - Rachana Society \n
+        - D.G.V.C.L Urja Sadan BRTS \n
+        - Shree Swami Dayanand Saraswati Bridge \n
+        - Utran Power House  \n
+        - Samata Nagar \n
+        - Mota Varachha Pumping  Station \n
+        - Apple Heights\n
+        - Sudhama Chowk \n
+        - Mota Varachha Fire Station \n
+        - Mota Varachha Ward Office \n
+        - Mota Varachha Prathmik school \n
+        - Mota Varachha Lake \n
+        - Anand Dhara Society Mota Varachha \n
+        - Kakrapar Canal Road \n
+        - Gothan Bridge \n
+        - Kiran Residancy \n
+        - Umra Naka \n
+        - Shiv Park Recidency \n
+        - Bapa Sitaram Petrol Pump \n
+        - Saurastra Green City \n
+        - Madhuvan Public School Approach  \n
+        - Avshar Bungalow \n
+        - Pranam Recidency \n
+        - Rangoli Chokadi \n
+        - Velanja Gaam \n
+    </string>
+
+    <string name="onezerotwo">\n
+        -Delhi Gate \n
+        -Moti Talkies \n
+        -Mahidharpura Post Office \n
+        -Bhagal \n
+        -Bhagal Char Rasta \n
+        -Kot Safil Road \n
+        -Wadi Faliya \n
+        -Kot Safil Road \n
+        -Bhagal Char Rasta \n
+        -Bhajiwali Pol \n
+        -Kaskiwad \n
+        -Saiyedpura Vegetable Market \n
+        -Pumping Char Rasta \n
+        -Hodi Bungalow \n
+        -Katargam Darwaja BRT \n
+        -Katargam Police Station \n
+        -Bal Ashram \n
+        -Katargam Fire Station \n
+        -Katargam \n
+        -Kantareshwar Mahadev \n
+        -Lalita Circle \n
+        -Bapa Sitaram Chowk BRTS \n
+        -Shree Sahjanand Chowk BRTS \n
+        -Dabholi Char Rasta \n
+        -Pramukh Swamy Chowk \n
+        -S.M.C Health Club \n
+        -Nani Ved \n
+        -Swami Narayan Gurukul \n
+        -Moti Ved Dargah \n
+    </string>
+
+    <string name="sevenonesix">\n
+        -Ankur Park Society \n
+        -Jahangirpura Housing \n
+        -SMC Library Jahangirpura \n
+        -Shree Darshan Society \n
+        -Jahangirpura Community Hall BRTS \n
+        -Morabhagal BRTS \n
+        -Devashish Nagar Mora Bhagal \n
+        -Shreenathaji Haveli Ramnagar \n
+        -Shri Ravishankar Maharaj School \n
+        -DGVCL GEB Office Palanpur \n
+        -Housing Board Palanpur \n
+        -Palanpur Patiya Circle \n
+        -Bhagyodaya Society \n
+        -Dindayal Society \n
+        -Palanpur Jakatnaka Circle \n
+        -Vidhyakunj \n
+        -Ekta Nagar \n
+        -L.P. Savani \n
+        -S.M.C. Performing Art Centre \n
+        -Green Avenue \n
+        -Trinity Business Park \n
+        -Adajan Gam BRTS \n
+        -Star Bazaar \n
+        -Surat District Court \n
+        -City Civic Centre \n
+        -Police Lines \n
+        -Athwa Pumping Station \n
+        -Narmad Central Library \n
+        -St.Xavier’s High School Ghod DoD Road \n
+        -Mira Nagar Society \n
+        -Jamna Nagar Society \n
+        -Trimurti Apartment \n
+        -Vivekanand Garden \n
+        -Jivkor Nagar Bhatar \n
+        -Sanjivani Circle Bhatar \n
+        -Bhatar Flyover Udhana Magdalla Road \n
+        -Vishal Society Udhana Magdalla Road \n
+        -Breadliner Circle Udhana Magdalla Road \n
+        -Giridhardwar Soc Althan Canal Road \n
+        -Indralok Bunglow Althan Canal Road \n
+        -Chinagate Road Althan Canal Road \n
+        -Althan Community Hall \n
+        -Soham Circle \n
+        -Althan Water Works Junction \n
+        -Shyam Mandir BRTS \n
+        -E Space Bharthana VIP Road \n
+        -Offira Shopping VIP Road \n
+        -Maniba Party Plot VIP Road \n
+        -Canal Junction VIP Road \n
+        -Balaji Farm VIP Road \n
+        -Ratna Jyoti Tower VIP Road \n
+        -Shri Sarjan Palace VIP Road \n
+        -Vastugram VIP Road \n
+        -Nandini Flat VIP Road \n
+    </string>
+
+    <string name="sevenzerosix">\n
+         -Makkai Pool \n
+        -Dutch Garden \n
+        -Nanpura Post Office \n
+        -Bahumali \n
+        -Girls Polytechnic \n
+        -Vanita Vishram \n
+        -Jawaharlal Nehru Garden \n
+        -Police Commissioner Office \n
+        -City Civic Centre \n
+        -Surat District Court \n
+        -V.T Choksi College \n
+        -Parle Point \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -Piplod BRTS \n
+        -Lancer’s Army School BRTS \n
+        -Goverdhan Nathji Haveli BRTS \n
+        -Rundhnath Mahadev Mandir BRTS \n
+        -Magdalla ‘T’ Junction BRTS \n
+        -‘Y’ Junction Dumas Road BRTS \n
+        -Magdalla Gam BRTS \n
+        -ONGC Colony BRTS \n
+        -Magdalla Port \n
+        -Gaviyar Vanta \n
+        -Surat Airport \n
+        -Dumas Kuvada \n
+        -Agashi Mata Nu Mandir \n
+        -Parsiwad \n
+        -Kaadi Faliya Dumas \n
+        -Moti Bajar Dumas \n
+        -Nani Bajar Dumas \n
+        -Maha Lakshmi Temple \n
+        -Arogya Kendra \n
+        -Bapuji Ni Wadi \n
+        -Sultanabad Aambawadi \n
+        -Sultanabad \n
+    </string>
+
+    <string name="sixfiveeight">\n
+        -Dhanmora  Adajan Patiya BRTS \n
+        -Swaminarayan Chowk BRTS \n
+        -Anand Mahal Road BRTS \n
+        -Adajan Gam BRTS \n
+        -Jagdishchandra Bose Garden \n
+        -Sanjeev Kumar Auditorium BRTS \n
+        -Pal R.T.O. BRTS \n
+        -Pal Patiya \n
+        -Bhatha Gaam \n
+        -Weal Park Industries \n
+        -Icchapor Gaam Faata \n
+        -Panchvati Garden Icchapor \n
+        -Icchapor Lake \n
+        -Hotel Excellency Icchapor \n
+        -Icchapor Town \n
+        -ONGC Road Junction \n
+        -Kribhco Nagar \n
+        -Railway Colony \n
+        -NTPC \n
+        -Gujarat Gas Company Ltd. Mora \n
+        -Mora Teen Rasta \n
+    </string>
+
+    <string name="threeonefive">\n
+        - Khatodra Police Station\n
+        - SMC Community Hall Khatodra \n
+        - Laxminagar-1\n
+        - Surat i Ilab\n
+        - Ashanagar Masjid Udhana\n
+        - Ashanagar Society\n
+        - Shreyas Vidhyalay Udhana \n
+        - Oxford School\n
+        - Ujleshwar Mahadev Mandir\n
+        - Kalyan Kutir Society \n
+        - Chikuwadi BRTS\n
+        - Patrakar Colony \n
+        - Rameshwar Nagar \n
+        - Sukhi Nagar\n
+        - Jay Ambe Society\n
+        - Bamroli\n
+        - Shiv Industries\n
+        - Jagdambe Estate\n
+        - Umiya Nagar Industrial Esatate\n
+        - Vadod Gam\n
+        - Ganesh Nagar Pandesara\n
+        - Pandesara Water Distribution\n
+        - Gurukrupa Industries\n
+        - Bhestan Garden\n
+    </string>
+
+    <string name="threezerofive">
+        -Satyanagar BRTS \n
+        -SMC South Zone Office \n
+        -Jhansi Ki Rani Garden \n
+        -Gayatri Society \n
+        -Ashanagar Soiety \n
+        -Veer Savarkar Circle \n
+        -Shiv Bhakti Apartment \n
+        -SMC Community Hall Udhana \n
+        -Chikuwadi BRTS \n
+        -Bhagirath Apartment \n
+        -KV Hagrenad Road \n
+        -Bhagyalaxmi Prints \n
+        -Maakrupa Chemical Industries Ganeshnagar \n
+        -Vadod Gaam \n
+        -Ganesh Nagar Pandesara \n
+        -Priyanka Township \n
+        -Priyanka Green Park Society \n
+        -Priyanka Gold Society \n
+        -Someshwar Nagar 1 \n
+        -Bhestan Garden \n
+        -Bhestan City Bus Depot \n
+        -Bhestan \n
+        -Unn Naka BRTS \n
+    </string>
+
+    <string name="twofivefour">
+        -Sharda Vidhya Mandir \n
+        -Singanpore S.T.P \n
+        -Trilok Society \n
+        -Akhand Anand College \n
+        -Pandol Police Chowki \n
+        -Nani Bahucharaji Temple \n
+        -Sant Jalaram Society \n
+        -Makbara Masjid \n
+        -Jilani Bridge Approach Katargam \n
+        -Katargam Darwaja BRT \n
+        -Gotalawadi \n
+        -Patelwadi \n
+        -Lal Darwaja \n
+        -Railway Station Terminal \n
+        -Linear Bus Stop \n
+        -Golden Point \n
+        -Sahara Darwaja \n
+        -Textile Market \n
+        -Kamela Darwaja \n
+        -Sai Darshan Market \n
+        -Panchsheel Nagar Anjana \n
+        -Nagar Prathmik School Anjana \n
+        -Anjana Health Centre \n
+        -Azad Chowk \n
+        -Mithikhadi Ward Office \n
+        -Limbayat Health Centre \n
+        -Shivaji Nagar \n
+        -Nilgiri Circle \n
+        -Shree Nathji Society Godadara \n
+        -Ram Nagar Godadara \n
+        -Hari Darshan Society Godadara \n
+        -Godadara School \n
+        -Godadara Gam \n
+        -Shamaldham Row House Godadara \n
+        -Sai Shrusti Residency Godadara \n
+        -Man Sarovar Society \n
+        -Arvind Nagar \n
+        -Shyam Dham Society Godadara \n
+        -Sai Darshan Society Godadara \n
+        -Samrat Industries 1 Godadara \n
+        -Jigneshnagar Godadara \n
+    </string>
+
+    <string name="twoone">\n
+        - Jahangirpura Community Hall BRTS \n
+        - Morabhagal BRTS \n
+        - Ramnagar BRTS \n
+        - Palanpur Patiya BRTS \n
+        - Tadwadi BRTS \n
+        - S.M.C West Zone Office BRTS \n
+        - Navyug Collage BRTS \n
+        - Sankheshwar Chowk BRTS \n
+        - Chandra Shekhar Azad Bridge Approach Katargam\n
+        - Katargam Darvaja BRT \n
+        - Gotalawadi  \n
+        - Kabir Mandir Rampura \n
+        - Railway Station Terminal \n
+        - Linear Bus Stop \n
+        - Golden Point \n
+        - Sahara Darvaja \n
+        - Smimer Hostpital BRT \n
+        - APMC Sardar Market BRTS \n
+        - Aai Mata Chowk BRTS \n
+        - Shree Sant Kheteshwar Circle \n
+        - Magob Gam BRT \n
+        - Magob Parvat Khadi Bridge BRTS \n
+        - Parvat Gam BRTS \n
+        - Devadh Gam Road BRTS \n
+        - Jai Jogani Mata Chowk BRTS \n
+        - Aaspas Dada Temple BRTS \n
+        - Mangal Pandey Hall BRTS \n
+        - Maharana Pratap Bridge BRTS  \n
+        - Dindoli Kharvasa Road BRTS\n
+        - Dindoli Varigruh BRTS\n
+        - Pandesara GIDC BRTS \n
+    </string>
+
+    <string name="twozeroseven">\n
+        - Makkai Pool\n
+        - Shakti Niketan Mandir\n
+        - Adajan Ptiya BRTS\n
+        - Siddiqui Sqare\n
+        - Jilani Complex\n
+        - Hamza Apartment\n
+        - Alfesani School\n
+        - Madni Society\n
+        - AL Amin\n
+        - Royal Heritage\n
+        - Arya Samaj Marg\n
+        - Pipardiwala School\n
+        - Rander Naher Colny\n
+        - Ramnagar BRTS\n
+        - Morabhagal BRTS\n
+        - Subhash Garden\n
+        - Sundarvan Row House\n
+        - Vasu Pujya Apartment\n
+        - Janki Apartment\n
+        - Vaishnodevi Heights\n
+        - Shashank Park Society\n
+        - Vaishnodevi Township\n
+    </string>
+
+    <string name="twooneseven">
+        -Chowk Terminal \n
+        -Chowk Bazar \n
+        -Nehru Bridge \n
+        -Adajan GSRTC \n
+        -Shankheshwar Chowk BRTS \n
+        -Ambedkar Trust \n
+        -Amidhara Wadi \n
+        -Ajramar Chowk \n
+        -Children Park Adajan \n
+        -Shalidhadra Residency \n
+        -Prime Arcade- Adajan \n
+        -Jyotindra Dave Garden \n
+        -Honey Park Cross Road \n
+        -Sai Square \n
+        -L.P Savani Vidhyabhavan \n
+        -Western City \n
+        -Shantvan Row House \n
+        -Royal Platinum \n
+        -Mini Virpur Temple \n
+        -Utran Station(Start) \n
+        -Tapash Nagar \n
+        -SMC Staff Quarters \n
+        -Raj Harmony \n
+        -Anand Villa \n
+    </string>
+
+    <string name="twoonesixb">\n
+        -Makkai Pool \n
+        -Dutch Garden \n
+        -Nanpura Post Office \n
+        -Bahumali \n
+        -Girls Polytechnic \n
+        -Vanita Vishram \n
+        -Jawaharlal Nehru Garden \n
+        -Police Commissioner Office \n
+        -City Civic Centre \n
+        -Surat District Court \n
+        -V.T Choksi College \n
+        -Parle Point \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -Piplod BRTS \n
+        -Lancer’s Army School BRTS \n
+        -Goverdhan Nathji Haveli BRTS \n
+        -Rundhnath Mahadev Mandir BRTS \n
+        -Magdalla ‘T’ Junction BRTS \n
+        -‘Y’ Junction Dumas Road BRTS \n
+        -Magdalla Gam BRTS \n
+        -ONGC Colony BRTS \n
+        -Magdalla Port \n
+        -Gaviyar Vanta \n
+        -Surat Airport \n
+        -Dumas Kuvada \n
+        -Victoria Palm \n
+        -Bhimpore Faata \n
+        -Kunj Gali \n
+    </string>
+
+    <string name="twoonesixk">\n
+        -Makkai Pool \n
+        -Dutch Garden \n
+        -Nanpura Post Office \n
+        -Bahumali \n
+        -Girls Polytechnic \n
+        -Vanita Vishram \n
+        -Jawaharlal Nehru Garden \n
+        -Police Commissioner Office \n
+        -City Civic Centre \n
+        -Surat District Court \n
+        -V.T Choksi College \n
+        -Parle Point \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -Piplod BRTS \n
+        -Lancer’s Army School BRTS \n
+        -Goverdhan Nathji Haveli BRTS \n
+        -Rundhnath Mahadev Mandir BRTS \n
+        -Magdalla ‘T’ Junction BRTS \n
+        -‘Y’ Junction Dumas Road BRTS \n
+        -Magdalla Gam BRTS \n
+        -ONGC Colony BRTS \n
+        -Magdalla Port \n
+        -Gaviyar Vanta \n
+        -Surat Airport \n
+        -Dumas Kuvada \n
+        -Agashi Mata Nu Mandir \n
+        -Parsiwad \n
+        -Kaadi Faliya Dumas \n
+        -Moti Bajar Dumas \n
+        -Nani Bajar Dumas \n
+        -Maha Lakshmi Temple \n
+        -Arogya Kendra \n
+        -Bapuji Ni Wadi \n
+        -Sultanabad Aambawadi \n
+        -Sultanabad \n
+    </string>
+
+    <string name="twoonethree">\n
+        - Pramukh Yog Apartment Dabholi\n
+        - Silver Stone Homes Dabholi\n
+        - Sarjan Avenu Apartment\n
+        - Kanthariya Hanuman Chowk\n
+        - Raj Laxmi Heights\n
+        - SMC Hall Singanpore\n
+        - Singanpore Vagetable Market\n
+        - Singanpore circle\n
+        - Aashirvad Doctor House \n
+        - J K P Nagar Society\n
+        - Sneh Nagar Society\n
+        - Katargam\n
+        - Katargam Fire Station\n
+        - Balashram Char Rasta\n
+        - Kiran Hospital\n
+        - Alkapuri\n
+        - Bhavani Circle\n
+        - Ram Nagar Society\n
+        - Sardar Smurti Bhavan\n
+        - Sardar Chowk\n
+        - Maangadh Chowk BRTS\n
+        - Baroda Pristage BRTS\n
+        - Shrimad Vallabhachary Chowk BRTS\n
+        - D.G.V.C.L.Urja Sadan BRTS\n
+        - Sainath Society Kapodra\n
+        - Nilkanth Society Kapodra\n
+        - Rashmi Kiran Apartment\n
+        - Sky Lark Complex Kapodra\n
+        - Mamta Park Society\n
+        - Laxminagar Chowk\n
+        - Bhagvati Society\n
+        - Anupam Business Hub\n
+        - Yogi Chowk\n
+        - City Civic Center Yogi\n
+        - Mahavir Chowk\n
+        - Shayam Dham chowk Simada\n
+        - Shayam sundar Apartment\n
+        - Swagat Society BRTS\n
+        - Bapa Sitaram Chowk Yogi Nagar\n
+        - Bhagawan Nagar Sarthana\n
+        - Simada Varigruh\n
+        - Sarthana Naka \n
+    </string>
+
+    <string name="twoonetwo">\n
+        -Chowk Bazar \n
+        -Nehru Bridge \n
+        -Furaja Chowk \n
+        -S.M.C. Central Zone Office \n
+        -I.P. Mission School \n
+        -Variyali Bazar Police Chowki \n
+        -Hodi Bungalow \n
+        -Katargam Darwaja \n
+        -Katargam Police Station \n
+        -Bal Ashram \n
+        -V.N Godhani School \n
+        -Dr. Shyamaprasad Mukharji Lake Garden BRTS \n
+        -Gajera Circle BRTS \n
+        -Pandit Shyamji Krishna Verma Bridge BRTS \n
+        -Amroli Char Rasta \n
+        -Mahavir Dham 2 \n
+        -Mahavir Heights \n
+        -Abhishek Township \n
+        -Kosad Talaav \n
+        -Kosad Ews H2 BRTS \n
+        -Kosad Ews H1 BRTS \n
+        -SMC Water Works Kosad \n
+        -Vatsalya Villa Variyav \n
+    </string>
+
+    <string name="twotwo">\n
+        - Kosad EWS H2 BRTS \n
+        - Kosad EWS H1 BRTS \n
+        - Kosad Housing Board BRTS \n
+        - Kosad Fire Station BRTS \n
+        - Amroli Cross Road \n
+        - Amroli Char Rasta \n
+        - Utran R.O.B Bridge BRTS \n
+        - Shree Swami Dayanand Saraswati Bridge \n
+        - D.G.V.C.L.Urja Sadan BRTS \n
+        - S.M.C Kapodra Ward Office BRTS \n
+        - Kapodara Fire Station BRTS \n
+        - Nana Varachha Vari Gruh BRTS \n
+        - Maharana Pratap Garden (Chopati)BRTS\n
+        - Nana Varachha Police Station BRTS \n
+        - Sathana Nature Park BRTS \n
+    </string>
+
+    <string name="twotwosix">\n
+        -Korivad Kosad \n
+        -Shahjanand Apartment \n
+        -Seven Star Residency \n
+        -Maruti Dham Society \n
+        -Hari Siddhi Apartment \n
+        -Krishna Nagar Society \n
+        -Mahavir Dhaam Society \n
+        -Sreepal Nagar Society \n
+        -Amroli Char Rasta \n
+        -Pandit Shyamji Krishna Verma Bridge BRTS \n
+        -Gajera Circle BRTS \n
+        -Dr. Shyamaprasad Mukharji Lake Garden BRTS \n
+        -Jalsa Theatre \n
+        -Kiran Hospital \n
+        -Sagar Industrial Estate \n
+        -Venus Estate \n
+        -Parin Gems \n
+        -Katargam Darwaja BRTS \n
+        -Katargam Darwaja \n
+        -Hodi Bungalow \n
+        -Variyali Bazar Police Chowki \n
+        -I.P. Mission School \n
+        -S.M.C. Central Zone Office \n
+        -Furaja Chowk \n
+        -Chowk Bazar \n
+        -Chowk Terminal \n
+        -Makkai Pool \n
+        -Dutch Garden \n
+        -Nanpura Post Office \n
+        -Bahumali \n
+        -Girls Polytechnic \n
+        -Athwagate \n
+        -Vanita Vishram \n
+        -Jawaharlal Nehru Garden \n
+        -Police Commissioner Office \n
+        -City Civic Centre \n
+        -Surat District Court \n
+        -Parle Point \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -SMC Night Food Bazaar \n
+        -Bhagyalaxmi Society \n
+        -Saraswati Nagar \n
+        -Piplod Main Road \n
+        -Someshwar Junction BRTS \n
+    </string>
+
+    <string name="twozero">\n
+        -Kosad EWS H1 BRTS\n
+        -Kosad Housing Board BRTS\n
+        -Kosad Fire Station BRTS \n
+        -Amroli Cross Road\n
+        -Amroli Char Rasta\n
+        -Pandit Shyamji Krishana Verma Bridge BRTS \n
+        -Gajera Circle BRTS\n
+        -DR.Shyamprasad Mukhrji Lake Garden BRTS\n
+        -Katargam BRT\n
+        -Katargam Darwaja BRT\n
+        -Gotalawadi\n
+        -Kabir Mandir Rampura\n
+        -Railway Station Terminal\n
+        -Linear Bus Stop\n
+        -Golden Point\n
+        -Sahara Darvaja\n
+        -Udhana Darvaja\n
+    </string>
+
+    <string name="twozerofiveg">
+        -Machhiwad \n
+        -Kuvawadi \n
+        -Man Mandir Apartment \n
+        -Mahavir Hospital \n
+        -Gandhi College \n
+        -Majura Gate \n
+        -Majuragate Civil Hospital \n
+        -Income Tax \n
+        -Kapadia Health Club \n
+        -Prajapita Brahmakumari Marg BRTS \n
+        -Unique Hospital Junction BRTS \n
+        -Sosyo Circle \n
+        -Gandhi Kutir \n
+        -Sickon Circle \n
+        -Ashapura Mata Mandir \n
+        -Umabhavan \n
+        -Vishnu Nagar \n
+        -Piyush Complex \n
+        -Patrakar Colony BRTS \n
+        -Pandesara \n
+        -Pandesara Industrial Estate \n
+        -Bamroli Khadi \n
+        -Jay Jalaram Industrial Society \n
+        -Bamroli \n
+        -Om Complex \n
+        -Jagdamba Estate \n
+        -Umiya Nagar Industrial Estate \n
+        -Vadod Gaam \n
+        -Ganeshnagar \n
+        -G.N. Pandya College \n
+        -Priyanka Township \n
+        -Priyanka Green Park Society \n
+        -Priyanka Gold Society \n
+        -D.I.E.T. \n
+        -Swapna Srusti Residency \n
+        -Reshma Nagar \n
+        -Unn Gam \n
+        -Maulana Azad English School \n
+        -Unn Industrial Estate BRTS \n
+        -Noorani Park Society \n
+        -Noorani Masjid \n
+        -Jilani Nagar \n
+        -Santro Bakery \n
+        -Colourtex Industries \n
+        -Gabheni Road \n
+    </string>
+
+    <string name="twozerofivek">\n
+        -Machhiwad \n
+        -Kuvawadi \n
+        -Man Mandir Apartment \n
+        -Mahavir Hospital \n
+        -Gandhi College \n
+        -Majura Gate \n
+        -Majuragate Civil Hospital \n
+        -Income Tax \n
+        -Kapadia Health Club \n
+        -Prajapita Brahmakumari Marg BRTS \n
+        -Unique Hospital Junction BRTS \n
+        -Sosyo Circle \n
+        -Gandhi Kutir \n
+        -Sickon Circle \n
+        -Ashapura Mata Mandir \n
+        -Umabhavan \n
+        -Vishnu Nagar \n
+        -Piyush Complex \n
+        -Patrakar Colony BRTS \n
+        -Pandesara \n
+        -Pandesara Industrial Estate \n
+        -Bamroli Khadi \n
+        -Jay Jalaram Industrial Society \n
+        -Bamroli \n
+        -Om Complex \n
+        -Jagdamba Estate \n
+        -Umiya Nagar Industrial Estate \n
+        -Vadod Gaam \n
+        -Ganeshnagar \n
+        -G.N. Pandya College \n
+        -Priyanka Township \n
+        -Priyanka Green Park Society \n
+        -Priyanka Gold Society \n
+        -D.I.E.T. \n
+        -Swapna Srusti Residency \n
+        -Reshma Nagar \n
+        -Unn Gam \n
+        -Maulana Azad English School \n
+        -Unn Industrial Estate BRTS \n
+        -Unn Char Rasta BRTS \n
+        -Green Park BRTS \n
+        -Sachin GIDC Junction BRTS \n
+        -Sachin GIDC Junction \n
+        -Sai Petroleum \n
+        -Palsana Chokdi \n
+        -Yogeshwar Park Sachin \n
+        -Pardi Gam Bus Stop \n
+        -Sachin Primary School \n
+        -Siddhi Vinayak Residency Sachin \n
+        -Shivdarshan Complex Sachin \n
+        -Samarpan Hospital \n
+        -Saraswati Hindi Vidya Mandir \n
+        -Kanakpur Primary School \n
+        -BAPS Temple Kanakpur \n
+    </string>
+
+    <string name="twozerofour">\n
+        -Machhiwad \n
+        -Keval Circle \n
+        -Kadarshah Ni Nal \n
+        -Symga School \n
+        -Sharda Vidhya Mandir \n
+        -Sanskar Bhavan \n
+        -New Civil Hospital \n
+        -Sub Jail \n
+        -Maan Darwaja \n
+        -Kinnary Cinema \n
+        -Kamela Darwaja \n
+        -Sai Darshan Market \n
+        -Panchsheel Nagar Anjana \n
+        -Nagar Prathmik School Anjana \n
+        -Samrat Vidhyalaya BRTS \n
+        -Model Town Junction \n
+        -Model Town Dumbhal \n
+        -Neminath Nagar Dumbhal \n
+        -Vidhata Township Parvat \n
+        -Parvat Gam \n
+        -Silicon Flats Parvat \n
+        -Godadra Canal Junction \n
+        -Jai Jogani Mata Chowk BRTS \n
+        -Shantanu Residency Godadara \n
+        -Khodiyar Residency Godadara \n
+        -Radhe Shyam Society Godadara \n
+        -Shamaldham Row House Godadara \n
+    </string>
+
+    <string name="twozeronine">\n
+        -Machhiwad \n
+        -Hijdawad \n
+        -Khwaja Dana New Road \n
+        -S.M.C. Water Department \n
+        -Navsari Bazar \n
+        -Janta Hospital \n
+        -Rustampura Swimming Pool \n
+        -Udhana Darwaja \n
+        -Maan Darwaja \n
+        -Kinnary Cinema \n
+        -Halpati Colony \n
+        -Bhathena Canal Junction \n
+        -Siddhi Vinayak Temple \n
+        -Khodiyarnagar \n
+        -L.N. Park Society \n
+        -Udhana GIDC Mahatma Gandhi Road \n
+        -Udhana GIDC Road No.3 \n
+        -ROAD No. 3 UDHANA UDHYOG NAGAR CHAR RASTA \n
+        -Udhana Road No.6 Junction \n
+        -S.M.C. Sankul \n
+        -Umiya Nagar \n
+        -Laxminagar Society \n
+        -Dindoli Gam \n
+        -Jitesh Park Society \n
+        -Millennium Park \n
+    </string>
+
+    <string name="twozerosix">\n
+        -Makkai Pool \n
+        -Dutch Garden \n
+        -Nanpura Post Office \n
+        -Bahumali \n
+        -Girls Polytechnic \n
+        -Vanita Vishram \n
+        -Jawaharlal Nehru Garden \n
+        -Police Commissioner Office \n
+        -City Civic Centre \n
+        -Surat District Court \n
+        -V.T Choksi College \n
+        -Parle Point \n
+        -Jaani Farsaan \n
+        -Sushrut Hospital \n
+        -Sargam Shopping Centre \n
+        -Icchanath Mahadev Temple \n
+        -S.V.N.I.T. BRTS \n
+        -Kargil Chowk BRTS \n
+        -Piplod BRTS \n
+        -Lancer’s Army School BRTS \n
+        -Goverdhan Nathji Haveli BRTS \n
+        -Rundhnath Mahadev Mandir BRTS \n
+        -Magdalla ‘T’ Junction BRTS \n
+        -‘Y’ Junction Dumas Road BRTS \n
+        -Magdalla Gam BRTS \n
+        -ONGC Colony BRTS \n
+        -Magdalla Port \n
+        -ABG Shipyard \n
+        -Gaviyar Gam \n
+    </string>
+
+    <string name="twozerotwo">\n
+        -Nehru Bridge \n
+        -Furaja Chowk \n
+        -S.M.C. Central Zone Office \n
+        -I.P. Mission School \n
+        -Variyali Bazar Police Chowki \n
+        -Hodi Bungalow \n
+        -Makbara Masjid \n
+        -Sant Jalaram Society \n
+        -Nani Bahucharaji Temple \n
+        -Pandol Police Chowki \n
+        -Akhand Anand College \n
+        -Vaadinath Chowk \n
+        -Gopal Nagar \n
+        -Shree Swaminarayan Mandir \n
+        -Shree Sahjanand Chowk BRTS \n
+        -Bapa Sitaram Chowk BRTS \n
+        -Hare Krishna Circle \n
+        -Radadya Vidhyalaya \n
+        -Sardar Complex \n
+        -Krishnakunj Society \n
+        -Krishna Residency \n
+        -Tapi Society \n
+        -Lakshimikant Ashram \n
+    </string>
+
+
+</resources>

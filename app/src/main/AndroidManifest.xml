@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.Light.NoActionBar">
+        <activity
+            android:name=".demo"
+            android:exported="false" />
+        <activity
+            android:name=".ninezerothree"
+            android:exported="false" />
+        <activity
+            android:name=".sevenonesix"
+            android:exported="false" />
+        <activity
+            android:name=".sevenzerosix"
+            android:exported="false" />
+        <activity
+            android:name=".sixfiveeight"
+            android:exported="false" />
+        <activity
+            android:name=".fivezerosix"
+            android:exported="false" />
+        <activity
+            android:name=".fivezerofour"
+            android:exported="false" />
+        <activity
+            android:name=".fouronezero"
+            android:exported="false" />
+        <activity
+            android:name=".fourzerothree"
+            android:exported="false" />
+        <activity
+            android:name=".fourzerotwo"
+            android:exported="false" />
+        <activity
+            android:name=".threeonefive"
+            android:exported="false" />
+        <activity
+            android:name=".threezerofive"
+            android:exported="false" />
+        <activity
+            android:name=".twofivefour"
+            android:exported="false" />
+        <activity
+            android:name=".twotwosix"
+            android:exported="false" />
+        <activity
+            android:name=".twooneseven"
+            android:exported="false" />
+        <activity
+            android:name=".twoonesixk"
+            android:exported="false" />
+        <activity
+            android:name=".twoonesixb"
+            android:exported="false" />
+        <activity
+            android:name=".twoonethree"
+            android:exported="false" />
+        <activity
+            android:name=".twoonetwo"
+            android:exported="false" />
+        <activity
+            android:name=".twozeronine"
+            android:exported="false" />
+        <activity
+            android:name=".twozeroseven"
+            android:exported="false" />
+        <activity
+            android:name=".twozerosix"
+            android:exported="false" />
+        <activity
+            android:name=".twozerofivek"
+            android:exported="false" />
+        <activity
+            android:name=".twozerofiveg"
+            android:exported="false" />
+        <activity
+            android:name=".twozerofour"
+            android:exported="false" />
+        <activity
+            android:name=".twozerotwo"
+            android:exported="false" />
+        <activity
+            android:name=".onefivethree"
+            android:exported="false" />
+        <activity
+            android:name=".onefourseven"
+            android:exported="false" />
+        <activity
+            android:name=".onethreeseven"
+            android:exported="false" />
+        <activity
+            android:name=".onethreesix"
+            android:exported="false" />
+        <activity
+            android:name=".onetwoseven"
+            android:exported="false" />
+        <activity
+            android:name=".onetwosix"
+            android:exported="false" />
+        <activity
+            android:name=".oneoneeight"
+            android:exported="false" />
+        <activity
+            android:name=".oneoneseven"
+            android:exported="false" />
+        <activity
+            android:name=".oneonesix"
+            android:exported="false" />
+        <activity
+            android:name=".oneonetwo"
+            android:exported="false" />
+        <activity
+            android:name=".onezeroeight"
+            android:exported="false" />
+        <activity
+            android:name=".onezeroseven"
+            android:exported="false" />
+        <activity
+            android:name=".onezerosix"
+            android:exported="false" />
+        <activity
+            android:name=".onezerofive"
+            android:exported="false" />
+        <activity
+            android:name=".onezerofour"
+            android:exported="false" />
+        <activity
+            android:name=".onezerothreev"
+            android:exported="false" />
+        <activity
+            android:name=".onezerothrees"
+            android:exported="false" />
+        <activity
+            android:name=".onezerothreek"
+            android:exported="false" />
+        <activity
+            android:name=".onezerotwo"
+            android:exported="false" />
+        <activity
+            android:name=".twotwo"
+            android:exported="false" />
+        <activity
+            android:name=".twoone"
+            android:exported="false" />
+        <activity
+            android:name=".twozero"
+            android:exported="false" />
+        <activity
+            android:name=".onenine"
+            android:exported="false" />
+        <activity
+            android:name=".oneeight"
+            android:exported="false" />
+        <activity
+            android:name=".oneseven"
+            android:exported="false" />
+        <activity
+            android:name=".onesevenae"
+            android:exported="false" />
+        <activity
+            android:name=".onesix"
+            android:exported="false" />
+        <activity
+            android:name=".onefive"
+            android:exported="false" />
+        <activity
+            android:name=".onefour"
+            android:exported="false" />
+        <activity
+            android:name=".onethree"
+            android:exported="false" />
+        <activity
+            android:name=".onetwo"
+            android:exported="false" />
+        <activity
+            android:name=".oneone"
+            android:exported="false" />
+        <activity
+            android:name=".zerotwo"
+            android:exported="false" />
+        <activity
+            android:name=".zeroone"
+            android:exported="false" />
+        <activity
+            android:name=".favtrip"
+            android:exported="false" />
+        <activity
+            android:name=".route"
+            android:exported="false" />
+        <activity
+            android:name=".loc"
+            android:exported="false" />
+        <activity
+            android:name=".map"
+            android:exported="false" />
+        <activity
+            android:name=".feedback"
+            android:exported="false" />
+        <activity
+            android:name=".upipay"
+            android:exported="false" />
+        <activity
+            android:name=".ticket"
+            android:exported="false" />
+        <activity
+            android:name=".user"
+            android:exported="false" />
+        <activity
+            android:name=".forgetpsw"
+            android:exported="false" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".homesitilink"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

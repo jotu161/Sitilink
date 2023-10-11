@@ -1,0 +1,87 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_demo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_favtrip.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_fivezerofour.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_fivezerosix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_forgetpsw.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_fouronezero.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_fourzerothree.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_fourzerotwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_homesitilink.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_ninezerothree.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneeight.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onefive.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onefivethree.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onefour.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onefourseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onenine.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneone.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneoneeight.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneoneseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneonesix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneonetwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_oneseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onesevenae.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onesix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onethree.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onethreeseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onethreesix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onetwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onetwoseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onetwosix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezeroeight.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerofive.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerofour.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezeroseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerosix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerothreek.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerothrees.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerothreev.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_onezerotwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_route.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_sevenonesix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_sevenzerosix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_signup.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_sixfiveeight.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_threeonefive.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_threezerofive.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_ticket.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twofivefour.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twoone.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twooneseven.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twoonesixb.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twoonesixk.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twoonethree.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twoonetwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twotwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twotwosix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozero.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozerofiveg.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozerofivek.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozerofour.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozeroseven.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozerosix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_twozerotwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_updateprof.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_zeroone.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/activity_zerotwo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/header.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/layout/list_items.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/menu/main_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/proj/edit/group4/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

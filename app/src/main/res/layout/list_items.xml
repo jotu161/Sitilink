@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_container"
+    android:layout_width="match_parent"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="8dp"
+    android:padding="5dp"
+    android:orientation="horizontal"
+    android:backgroundTint="#CDDEFF"
+    android:background="@drawable/border"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/buscol"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="@drawable/ic_circle"
+        android:src="@drawable/ic_bus_green"
+        tools:ignore="ContentDescription,ImageContrastCheck" />
+
+    <RelativeLayout
+        android:layout_margin="8dp"
+        android:background="@drawable/border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/busnum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:text="@string/busnumber"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/buspath"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/busnum"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:text="@string/buspath"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
